@@ -11,4 +11,4 @@ $(function() {
 });
 </script>
 
-used in <a href="https://tarnovo.info/">tarnovo.info</a>
+used in <a href="https://tarnovo.info/" target="_blank">tarnovo.info</a>
